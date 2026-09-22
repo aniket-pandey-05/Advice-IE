@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/aniket-pandey-05/Advice-IE/issues"
   },
-  "homepage": "https://github.com/aniket-pandey-05/Advice-IE#readme"
+  "homepage": "https://github.com/aniket-pandey-05/Advice-IE#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
